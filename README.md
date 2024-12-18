@@ -106,8 +106,8 @@ Currently, the fall detection feature is implemented, and further features like 
 
 
 **Federated Learning Process:**
-![Federated Learning Process](Images\fedml.png)
 
+<img src="https://www.researchgate.net/profile/Muhammad-Khan-121/publication/364352748/figure/fig1/AS:11431281090632744@1666091303530/Flow-chart-of-the-federated-learning-model.png" alt="Federated ML Worlflow" width="300" height="300">
 ---
 
 ## Future Enhancements
