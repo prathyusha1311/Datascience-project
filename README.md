@@ -100,10 +100,10 @@ Currently, the fall detection feature is implemented, and further features like 
 ![System Architecture](images/system_architecture.png) -->
 
 **Fall Detection Flow:**
-![Fall Detection Flow]("Images\Fall detection flow.png")
+![Fall Detection Flow](Images\Fall detection flow.png)
 
 **Federated Learning Process:**
-![Federated Learning Process]("https://www.google.com/search?sca_esv=0a0afea8e69e4a8b&q=federated+learning+flowchart&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J7pRxUp2pI1mXV9fBsfh39Jw_Y7pXPv6W9UjIXzt09-Y-RVsUQytO3H9U9unQ4zjSmyc1am7RU9IOaZeZLN-vxqOLRVgtOkNIBInceOOInHD1Vy8A8dMZkK6qsEDDgBo37uamqwPID1ktpoxri6hURFY-RftoYl5J3cAxl4SOYvmGkrX6Q&sa=X&ved=2ahUKEwiq8PeQ-bGKAxVn4zgGHRLFNvYQtKgLegQIFBAB&biw=1470&bih=832&dpr=2#vhid=QapUOPtmBX_qiM&vssid=mosaic")
+![Federated Learning Process](Images\fedml.png)
 
 ---
 
