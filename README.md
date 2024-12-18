@@ -107,7 +107,7 @@ Currently, the fall detection feature is implemented, and further features like 
 
 **Federated Learning Process:**
 
-<img src="https://www.researchgate.net/profile/Muhammad-Khan-121/publication/364352748/figure/fig1/AS:11431281090632744@1666091303530/Flow-chart-of-the-federated-learning-model.png" alt="Federated ML Worlflow" width="300" height="300">
+<img src="https://github.com/prathyusha1311/Datascience-project/blob/60ad93939236f8dcc70b4575c8262cce8eba0fb3/Images/Flow-chart-of-the-federated-learning-model.png" alt="Federated ML Worlflow" width="500" height="500">
 ---
 
 ## Future Enhancements
