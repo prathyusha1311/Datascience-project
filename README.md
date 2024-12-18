@@ -100,7 +100,10 @@ Currently, the fall detection feature is implemented, and further features like 
 ![System Architecture](images/system_architecture.png) -->
 
 **Fall Detection Flow:**
-![Fall Detection Flow](Images\Fall detection flow.png)
+<!--![Fall Detection Flow](https://github.com/prathyusha1311/Datascience-project/raw/d0e716d830fee63fde7abb66d978a3a74afdf1a1/Images/Fall%20detection%20flow.png)-->
+<img src="https://github.com/prathyusha1311/Datascience-project/raw/d0e716d830fee63fde7abb66d978a3a74afdf1a1/Images/Fall%20detection%20flow.png" alt="Fall Detection Flow" width="500" height="500">
+
+
 
 **Federated Learning Process:**
 ![Federated Learning Process](Images\fedml.png)
